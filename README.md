@@ -49,6 +49,21 @@
  <li> aumento das sujeiras
   <li>reducao de qualidade das vidas nas cidades
   <li> agrave os poblemas na saude
-  <li> impacto na economia da comunidade locais</li>
+  <li> impacto na economia da comunidade locais</li>                  
 </ul>
+ </section>
 
+<section id=' conclusao' class='conteudo'
+  <h2> conclusao</h2>
+  <p> o desmatamento imoacta diretamente,a vida humana. para evitar suas consequencias é necessario preservar o meio ambiente 
+  <iframe wisth='560' height"325" src="https://www.youtube.com/embed/ILH7nDEKGqc?si=feol6sZCHP1Cg-jQ" title="youtube vidios"
+      <section>
+
+  <main>
+
+<footer>
+<a href="https://www.linkedin.com/in/Andressa/" class="cta-footer"> Faça parte dessa causa!</a>
+<p>2025/ @andressa4315g</p>
+     </footer>
+</boody>
+</html>
